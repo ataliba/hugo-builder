@@ -1,5 +1,7 @@
 FROM alpine:latest
 
+LABEL authors="Ataliba Teixeira <ataliba@protonmail.com,Christophe de Vienne <christophe.devienne@orus.io>"
+
 MAINTAINER Christophe de Vienne <christophe.devienne@orus.io>
 
 ENV VERSION 0.68.1
