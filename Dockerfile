@@ -6,6 +6,7 @@ MAINTAINER Christophe de Vienne <christophe.devienne@orus.io>
 
 # Version of Hugo 
 ENV VERSION 0.78.2
+
 ####
 
 RUN apk add --no-cache git openssl py-pygments curl \
