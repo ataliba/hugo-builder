@@ -5,7 +5,7 @@ LABEL authors="Ataliba Teixeira <ataliba@protonmail.com,Christophe de Vienne <ch
 MAINTAINER Christophe de Vienne <christophe.devienne@orus.io>
 
 # Version of Hugo 
-ENV VERSION 0.82.0
+ENV VERSION 0.82.1
 ####
 
 RUN apk add --no-cache git openssl py-pygments curl \
